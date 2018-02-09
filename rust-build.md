@@ -25,7 +25,7 @@ cd rust
 ### Install
 ```sh
 sudo vim /home/google/.bashrc
-export PATH="$PATH:/opt/rust/build/x86_64-unknown-linux-gnu/stage1/bin"
+export PATH="$PATH:/opt/rust/build/x86_64-unknown-linux-gnu/stage0/bin"
 OR
 export PATH="$PATH:/opt/rust/build/x86_64-unknown-linux-gnu/stage1/bin"
 ```
