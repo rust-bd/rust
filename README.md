@@ -1,2 +1,2 @@
-# rust
+# Rust Programming
 Rust Programming Language
