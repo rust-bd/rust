@@ -29,5 +29,5 @@ export PATH="$PATH:/opt/rust/build/x86_64-unknown-linux-gnu/stage1/bin"
 ```
 ### Version Check
 ```sh
-./rustc  --version
+rustc  --version
 ```
