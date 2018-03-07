@@ -1,4 +1,4 @@
-### Make sure you have installed the dependencies:
+### Make sure you have installed the dependencies
 
 ```sh
 g++ 4.7 or later or clang++ 3.x or later
